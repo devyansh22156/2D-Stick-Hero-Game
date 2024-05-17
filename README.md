@@ -1,1 +1,1 @@
-# 2D-Stick-Hero-Game
+# 2D-StickHero-Game
