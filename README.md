@@ -1,5 +1,5 @@
 # 2D-Stick-Hero-Game
-READ ME
+# Read Me
 The StickMan Hero Game consists of several classes and interfaces to implement OOPS. The start screen of the game displays:
 1.	NEW GAME BUTTON: The user can click on this to start a new game.
 2.	RESUME GAME: On clicking on this, the user will be directed to another screen that would call for the user to login. If the user already has data saved, then the game will be resumed from where originally the game was left, else error would appear.
